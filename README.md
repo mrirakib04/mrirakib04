@@ -1,16 +1,16 @@
-# Md. Rakibul Islam Rakib
+# <span style="color: #2E86C1;">Md. Rakibul Islam Rakib</span>
 
 **Email**: [mdrakibulislam11928@gmail.com](mailto:mdrakibulislam11928@gmail.com)  
 **Phone**: +8801955151970
 
 ---
 
-## 🚀 Objective
+## 🚀 <span style="color: #F39C12;">Objective</span>
 Motivated and responsible student currently pursuing a **Secondary School Certificate (SSC)** in Bangladesh. Eager to apply my newly acquired skills in **Web Design & Development**. Committed to contributing to team success and developing valuable skills for my future career.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ <span style="color: #F39C12;">Skills</span>
 - **HTML**
 - **CSS**
 - **Tailwind CSS**
@@ -24,20 +24,20 @@ Motivated and responsible student currently pursuing a **Secondary School Certif
 
 ---
 
-## 🎓 Education
+## 🎓 <span style="color: #2ECC71;">Education</span>
 **Secondary School Certificate (SSC)**  
 *Jaman Memorial Academy* – Gazipur, Bangladesh  
 **Expected Completion**: May 2025
 
 ---
 
-## 🌍 Languages
+## 🌍 <span style="color: #9B59B6;">Languages</span>
 - **English** (Advanced)
 - **Bangla** (Native)
 
 ---
 
-## 📂 Projects
+## 📂 <span style="color: #E74C3C;">Projects</span>
 Here are some of the projects I have worked on:
 
 1. **[First Practice in Coding Life](https://mrirakib-practice-1.netlify.app/)**  

@@ -40,23 +40,30 @@ Motivated and responsible student currently pursuing a **Secondary School Certif
 ## 📂 <span style="color: #E74C3C;">Projects</span>
 Here are some of the projects I have worked on:
 
-1. **[First Practice in Coding Life](https://mrirakib-practice-1.netlify.app/)**  
-   - Description: This was my first coding practice. The site is **not responsive**.
+1. **First Practice in Coding Life**  
+   [https://mrirakib-practice-1.netlify.app/](https://mrirakib-practice-1.netlify.app/)  
+- Description: This was my first coding practice. The site is **not responsive**.
+  
+2. **Practice of a Donation Website**  
+   [https://mrirakib-practice-2.netlify.app/](https://mrirakib-practice-2.netlify.app/)  
+- Description: A donation website built using **HTML**, **CSS**, **Tailwind**, and basic **JavaScript**.
 
-2. **[Practice of a Donation Website](https://mrirakib-practice-2.netlify.app/)**  
-   - Description: A donation website built using **HTML**, **CSS**, **Tailwind**, and basic **JavaScript**.
+3. **Practice of Pet Adoption Website**  
+   [https://mrirakib-practice-3.netlify.app/](https://mrirakib-practice-3.netlify.app/)  
+- Description: A pet adoption website built with **HTML**, **CSS**, **Tailwind**, and **JavaScript**.
 
-3. **[Practice of Pet Adoption Website](https://mrirakib-practice-3.netlify.app/)**  
-   - Description: A pet adoption website built with **HTML**, **CSS**, **Tailwind**, and **JavaScript**.
+   
+4. **Practice of Player Selection Website**  
+   [https://mrirakib-practice-4.netlify.app/](https://mrirakib-practice-4.netlify.app/)  
+- Description: A player selection website built using **HTML**, **CSS**, **Tailwind**, **JavaScript**, and **React**.
 
-4. **[Practice of Player Selection Website](https://mrirakib-practice-3.netlify.app/)**  
-   - Description: A player selection website built using **HTML**, **CSS**, **Tailwind**, **JavaScript**, and **React**.
+5. **Practice of Simple E-Commerce Website**  
+   [https://mrirakib-practice-5.netlify.app/](https://mrirakib-practice-5.netlify.app/)  
+- Description: A simple e-commerce website built using **HTML**, **CSS**, **Tailwind**, **JavaScript**, and **React**.
 
-5. **[Practice of Simple E-Commerce Website](https://mrirakib-practice-3.netlify.app/)**  
-   - Description: A simple e-commerce website built using **HTML**, **CSS**, **Tailwind**, **JavaScript**, and **React**.
-
-6. **[Practice of Coupon Distribution Website](https://mrirakib-practice-3.netlify.app/)**  
-   - Description: A coupon distribution website built using **HTML**, **CSS**, **Tailwind**, **JavaScript**, **React**, and **Firebase**.
+6. **Practice of Coupon Distribution Website**  
+   [https://mrirakib-practice-6.netlify.app/](https://mrirakib-practice-6.netlify.app/)  
+- Description: A coupon distribution website built using **HTML**, **CSS**, **Tailwind**, **JavaScript**, **React**, and **Firebase**.
 
 ---
 

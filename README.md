@@ -23,7 +23,6 @@ Motivated and responsible student currently pursuing a **Secondary School Certif
 - **Firebase**
 - **Git**
 - **Github**
-- **Github**
 
 ---
 

@@ -41,5 +41,5 @@ Motivated and responsible student currently pursuing a **Secondary School Certif
 ---
 
 ## 🔗 Social Contacts
-**Facebook**: [https://www.facebook.com/MRI.Rakib04](https://www.facebook.com/MRI.Rakib04) 
-**Twitter/X**: [https://x.com/mrirakib04](https://x.com/mrirakib04) 
+- **Facebook**: [https://www.facebook.com/MRI.Rakib04](https://www.facebook.com/MRI.Rakib04) 
+- **Twitter/X**: [https://x.com/mrirakib04](https://x.com/mrirakib04) 

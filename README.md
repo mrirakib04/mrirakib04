@@ -56,3 +56,9 @@ _Language High School_ – Gazipur, Bangladesh
 - **Facebook**: [https://www.facebook.com/MRI.Rakib04](https://www.facebook.com/MRI.Rakib04)
 - **Twitter/X**: [https://x.com/mrirakib04](https://x.com/mrirakib04)
 - **Instagram**: [https://www.instagram.com/mrirakib04/](https://www.instagram.com/mrirakib04/)
+- **LinkedIn**: [https://www.linkedin.com/in/mrirakib04/](https://www.linkedin.com/in/mrirakib04/)
+
+  ---
+
+  ### 5 September 12:45 AM
+  

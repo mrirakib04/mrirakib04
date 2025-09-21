@@ -13,18 +13,34 @@ With a solid foundation in **web development** technologies like HTML, CSS, Java
 
 ## 🛠️ Practicing
 
+### Frontend
+
 - **HTML**
 - **CSS**
 - **Tailwind CSS**
 - **Bootstrap**
 - **JavaScript**
 - **React JS**
+
+### Backend
+
 - **Node JS**
 - **Express JS**
 - **MongoDB**
 - **Firebase**
-- **Git**
-- **GitHub**
+
+### Others
+
+- **Version Control**
+  - Git
+  - GitHub
+- **Deployment**
+  - Netlify
+  - Vercel
+
+### Current
+
+- **Python**
 
 ---
 

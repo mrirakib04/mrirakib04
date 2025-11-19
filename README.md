@@ -52,6 +52,19 @@ With a solid foundation in **web development** technologies like HTML, CSS, Java
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrirakib04&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://streak-stats.demolab.com/?user=mrirakib04&theme=tokyonight" height="160px"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrirakib04&layout=compact&theme=tokyonight" height="160px"/>
+</div>
+
+---
+
 ### 🧩 Fun-Fact
 
 - To get the website preview working on Netlify, I deployed my project 8 times with some small changes. I knew that was not for any error - it was just for some unorganized or unnecessary code. After commenting out components one by one and redeploying after each change to find the issue. I found the issue: the imports in **App.jsx** were messy (like **Footer** on line 2, **Header** on line 5). Once I reorganized them properly and redeployed, the problem was fixed.

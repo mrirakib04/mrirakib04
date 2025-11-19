@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=mrirakib04&style=for-the-badge)
+<img alt=”Coding” width="100%" src="./G_banner2.jpg"/>
+
 # Md. Rakibul Islam Rakib
 
 **Email**: [mdrakibulislam11928@gmail.com](mailto:mdrakibulislam11928@gmail.com)  
@@ -74,7 +77,6 @@ _Language High School_ – Gazipur, Bangladesh
 - **Instagram**: [https://www.instagram.com/mrirakib04/](https://www.instagram.com/mrirakib04/)
 - **LinkedIn**: [https://www.linkedin.com/in/mrirakib04/](https://www.linkedin.com/in/mrirakib04/)
 
-  ---
+---
 
-  ### 5 September 12:45 AM
-  
+### 5 September 12:45 AM

@@ -16,34 +16,31 @@ With a solid foundation in **web development** technologies like HTML, CSS, Java
 
 ## 🛠️ Practicing
 
-### Frontend
+### **Frontend**
 
-- **HTML**
-- **CSS**
-- **Tailwind CSS**
-- **Bootstrap**
-- **JavaScript**
-- **React JS**
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react)](https://skillicons.dev)
 
-### Backend
+### **Backend**
 
-- **Node JS**
-- **Express JS**
-- **MongoDB**
-- **Firebase**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase)](https://skillicons.dev)
 
-### Others
+### **Others**
 
-- **Version Control**
-  - Git
-  - GitHub
-- **Deployment**
-  - Netlify
-  - Vercel
+### Version Control:
 
-### Current
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-- **Python**
+### Deployment:
+
+[![My Skills](https://skillicons.dev/icons?i=netlify,vercel)](https://skillicons.dev)
+
+### Design:
+
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+### **Current**
+
+[![My Skills](https://skillicons.dev/icons?i=py,ts)](https://skillicons.dev)
 
 ---
 

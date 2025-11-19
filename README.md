@@ -1,16 +1,24 @@
 ![](https://komarev.com/ghpvc/?username=mrirakib04&style=for-the-badge)
 <img alt=”Coding” width="100%" src="./G_banner2.jpg"/>
 
-# Md. Rakibul Islam Rakib
-
 **Email**: [mdrakibulislam11928@gmail.com](mailto:mdrakibulislam11928@gmail.com)  
 **Phone**: [+8801955151970](tel:+8801955151970)
 
 ---
 
-## 🚀 Objective
+## 🚀 About Me
 
 With a solid foundation in **web development** technologies like HTML, CSS, JavaScript, React, Node.js, and MongoDB, I’m eager to contribute to real-world projects in a collaborative environment. I’m looking for an opportunity where I can apply my skills, gain hands-on experience, and continue growing as a developer.
+
+---
+
+## 🔥 What I'm Currently Doing
+
+- 🚀 Exploring **Next.js** and API caching
+- 📱 Learning **React Native**
+- 🧪 Improving debugging & problem solving
+- 🌐 Building a **school web application**
+- 💻 Working on full-stack projects using **MERN**
 
 ---
 

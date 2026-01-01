@@ -3,6 +3,7 @@
 
 **Email**: [mdrakibulislam11928@gmail.com](mailto:mdrakibulislam11928@gmail.com)  
 **Phone**: [+8801955151970](tel:+8801955151970)
+**Portfolio**: [https://mrirakib.netlify.app/](https://mrirakib.netlify.app/)
 
 ---
 
@@ -32,17 +33,15 @@ With a solid foundation in **web development** technologies like HTML, CSS, Java
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase)](https://skillicons.dev)
 
-### **Others**
-
-### Version Control:
+### **Version Control**
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-### Deployment:
+### **Deployment**
 
 [![My Skills](https://skillicons.dev/icons?i=netlify,vercel)](https://skillicons.dev)
 
-### Design:
+### **Design**
 
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
@@ -93,7 +92,7 @@ _Language High School_ – Gazipur, Bangladesh
 - **Facebook**: [https://www.facebook.com/MRI.Rakib04](https://www.facebook.com/MRI.Rakib04)
 - **Twitter/X**: [https://x.com/mrirakib04](https://x.com/mrirakib04)
 - **Instagram**: [https://www.instagram.com/mrirakib04/](https://www.instagram.com/mrirakib04/)
-- **LinkedIn**: [https://www.linkedin.com/in/mrirakib04/](https://www.linkedin.com/in/mrirakib04/)
+- **LinkedIn**: [https://www.linkedin.com/in/webdev-rakib/](https://www.linkedin.com/in/webdev-rakib/)
 
 ---
 

@@ -27,7 +27,7 @@ With a solid foundation in **web development** technologies like HTML, CSS, Java
 
 ### **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,next)](https://skillicons.dev)
 
 ### **Backend**
 

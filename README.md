@@ -2,7 +2,7 @@
 <img alt=”Coding” width="100%" src="./G_banner2.jpg"/>
 
 **Email**: [mdrakibulislam11928@gmail.com](mailto:mdrakibulislam11928@gmail.com)  
-**Phone**: [+8801955151970](tel:+8801955151970)
+**Phone**: [+8801955151970](tel:+8801955151970)  
 **Portfolio**: [https://mrirakib.netlify.app/](https://mrirakib.netlify.app/)
 
 ---

@@ -15,8 +15,8 @@ With a solid foundation in **web development** technologies like HTML, CSS, Java
 
 ## 🔥 What I'm Currently Doing
 
-- 🚀 Exploring **Next.js** and API caching
-- 📱 Learning **React Native**
+- 🚀 Exploring **TypeScript** and **Redux**
+- 📱 Maintaining previous projects
 - 🧪 Improving debugging & problem solving
 - 🌐 Building a **school web application**
 - 💻 Working on full-stack projects using **MERN**
